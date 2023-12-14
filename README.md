@@ -4,8 +4,8 @@ Ke Fan\*, Jingshi Lei\*, [Xuelin Qian†](https://naiq.github.io/), Miaopeng Yu,
 # Introduction
 <img src='./imgs/framework.jpg' width="100%">
 <div style="display: flex;">
-    <img src='./imgs/bev.jpg' width="49.5%"> 
-    <img src='./imgs/object_attention.jpg' width="49.5%">
+    <img src='./imgs/bev.jpg' width="49.9%"> 
+    <img src='./imgs/object_attention.jpg' width="49.9%">
 </div>
 
 <div style="text-align: justify">
