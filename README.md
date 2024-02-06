@@ -15,6 +15,9 @@ Ke Fan\*, Jingshi Lei\*, [Xuelin Qian†](https://naiq.github.io/), Miaopeng Yu,
 # Code and Checkpoints
 The code of EoRaS will be release upon passing the review of Amazon.
 
+# News
+The codes and datasets of EoRaS have been reviewed. Will upload them soon.
+
 # Citation
 If you find our paper useful for your research and applications, please cite using this BibTeX:
 
