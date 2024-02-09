@@ -14,7 +14,8 @@ Ke Fan\*, Jingshi Lei\*, [Xuelin Qian†](https://naiq.github.io/), Miaopeng Yu,
 
 # Code and Checkpoints
 The code of EoRaS will be release upon passing the review of Amazon.
-
+We release the code of EoRaS [here](https://github.com/amazon-science/efficient-object-centric-representation-amodal-segmentation
+)
 # News
 The codes and datasets of EoRaS have been reviewed. Will upload them soon.
 
