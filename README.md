@@ -1,5 +1,5 @@
 # Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation
-Ke Fan\*, Jingshi Lei\*, [Xuelin Qian†](https://naiq.github.io/), Miaopeng Yu, [Tianjun Xiao†](https://tianjunxiao.com/), [Tong He](https://hetong007.github.io/), [Zheng Zhang](https://www.amazon.science/author/zheng-zhang), [Yanwei Fu](https://yanweifu.github.io/)
+[Ke Fan](https://kfan21.github.io/)\*, [Jingshi Lei](https://github.com/cc-crow)\*, [Xuelin Qian†](https://naiq.github.io/), Miaopeng Yu, [Tianjun Xiao†](https://tianjunxiao.com/), [Tong He](https://hetong007.github.io/), [Zheng Zhang](https://www.amazon.science/author/zheng-zhang), [Yanwei Fu](https://yanweifu.github.io/)
 
 # Introduction
 <img src='./imgs/framework.jpg' width="100%">
@@ -13,7 +13,7 @@ Ke Fan\*, Jingshi Lei\*, [Xuelin Qian†](https://naiq.github.io/), Miaopeng Yu,
 <div>
 
 # Code and Checkpoints
-We release the code of EoRaS [here](https://github.com/amazon-science/efficient-object-centric-representation-amodal-segmentation
+We release the codes, datasets and checkpoints of EoRaS [here](https://github.com/amazon-science/efficient-object-centric-representation-amodal-segmentation
 )
 
 # Citation
